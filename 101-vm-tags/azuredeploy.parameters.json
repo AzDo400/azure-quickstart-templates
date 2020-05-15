@@ -7,6 +7,9 @@
     },
     "adminPassword": {
       "value": "GEN-PASSWORD"
-    }
+    },
+     "vvvvadminUsername":{
+       "value": "GEN-UNIQUE"
+     }
   }
 }
